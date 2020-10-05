@@ -70,7 +70,7 @@ void loop() {
 
 You will need to setup the following circuit using your Arduino:
 
-![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-led-martix/main/tinkercad-led-matrix.png)
+![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-led-martix/main/tinkercad-led-matrix.jpg)
 
 [View the Circuit on Tinkercad](https://www.tinkercad.com/things/cirt8n99Qga)
 
