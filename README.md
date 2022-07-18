@@ -1,4 +1,4 @@
-# arduino-led-matrix
+# Arduino and an LED Matrix
 
 A basic example of controlling an 8 x 8 LED matrix using an Arduino.
 
