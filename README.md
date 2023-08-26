@@ -66,7 +66,7 @@ void loop() {
 }
 ```
 
-[View the Arduino code on Arduino Create](https://create.arduino.cc/editor/professoradam/3858d28f-b91f-4d77-a90e-ff8519007a8a/preview)
+> [View the Arduino code on Arduino Create](https://create.arduino.cc/editor/professoradam/3858d28f-b91f-4d77-a90e-ff8519007a8a/preview)
 
 You will need to setup the following circuit using your Arduino:
 
