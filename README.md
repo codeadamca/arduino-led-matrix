@@ -14,7 +14,7 @@ int CLK = 6;
 int CS = 5;
 int maxInUse = 1;
 
-MaxMatrix m(DIN, CS, CLK, maxInUse); 
+MaxMatrix m(DIN, CS, CLK, maxInUse);
 
 char smile01[] = {8, 8,
   B00111100,
@@ -48,21 +48,21 @@ char smile03[] = {8, 8,
 };
 
 void setup() {
-  
+
   m.init();
   m.setIntensity(1);
-  
+
 }
 
 void loop() {
-  
+
   m.writeSprite(0, 0, smile01);
   delay( 500 );
   m.writeSprite(0, 0, smile02);
   delay( 500 );
   m.writeSprite(0, 0, smile03);
   delay( 500 );
-  
+
 }
 ```
 
@@ -70,16 +70,16 @@ void loop() {
 
 You will need to setup the following circuit using your Arduino:
 
-![Tinkercad Circuit](https://raw.githubusercontent.com/codeadamca/arduino-led-matrix/main/tinkercad-led-matrix.jpg)
+![Tinkercad Circuit](_readme/tinkercad-led-matrix.jpg)
 
-[View the Circuit on Tinkercad](https://www.tinkercad.com/things/cirt8n99Qga)
+> [View the Circuit on Tinkercad](https://www.tinkercad.com/things/cirt8n99Qga)
 
+> Full tutorial URL:  
+> https://codeadam.ca/learning/arduino-led-matrix.html
 
 ## Tutorial Requirements:
 
-* [Arduino Create](https://create.arduino.cc/editor) 
-
-Full tutorial URL: https://codeadam.ca/learning/arduino-led-matrix.html
+- [Arduino Create](https://create.arduino.cc/editor)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
