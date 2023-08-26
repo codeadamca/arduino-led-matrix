@@ -77,7 +77,9 @@ You will need to setup the following circuit using your Arduino:
 > Full tutorial URL:  
 > https://codeadam.ca/learning/arduino-led-matrix.html
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 - [Arduino Create](https://create.arduino.cc/editor)
 
